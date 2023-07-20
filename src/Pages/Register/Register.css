@@ -1,0 +1,40 @@
+.register-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .register-title {
+    margin-bottom: 1rem;
+  }
+  
+  .register-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .register-input {
+    margin-bottom: 1rem;
+  }
+  
+ 
+  .register-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+  }
+  
+    
+  .register-login-text {
+    margin-top: 1rem;
+  }
+  
+  .register-login-link {
+    color: blue;
+  }
+  

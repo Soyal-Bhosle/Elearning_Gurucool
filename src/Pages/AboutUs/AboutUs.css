@@ -1,0 +1,22 @@
+.follow-us-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+  }
+  
+  .follow-us-icon {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 2rem;
+    color: #555;
+    cursor: pointer;
+  }
+  
+  .follow-us-icon:hover {
+    color: #0077b5;
+  }
+  
